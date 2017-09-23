@@ -70,9 +70,5 @@ public class StockBuySell {
 
         StockBuySell obj = new StockBuySell();
         System.out.println (obj.maxProfit1(prices));
-
-//        for (Map.Entry<Integer, Integer> entry: obj.hashMap.entrySet()) {
-//            System.out.println ()
-//        }
     }
 }
